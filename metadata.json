@@ -1,0 +1,7 @@
+{
+  "name": "Sonic X Pro",
+  "description": "Automated Forex & Crypto EA Trading Bot and AI Chart Scanner powered by iTradeBot with real-time MetaTrader MT5 order execution and position tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
